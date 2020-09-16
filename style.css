@@ -1,0 +1,35 @@
+.bg-purple{
+    background-color: rgb(161, 249, 252)
+
+}
+
+.bg-purple2{
+    background-color: rgb(161, 249, 252);
+}
+.heigth-carousel{
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.icon-redes{
+    font-size: 50px;
+    margin-right: 5%;
+    padding-top: 2%;
+}
+
+.fa-facebook-square{
+    color:blue;
+}
+
+.fa-twitter{
+    color:rgb(22, 233, 233);
+}
+.fa-github{
+    color:black
+}
+
+.fa-linkedin{
+    color:rgba(36, 49, 231, 0.938);
+
+}
+
